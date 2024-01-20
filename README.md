@@ -2,7 +2,8 @@
 
 ## Lenguajes que pretendo aprender
 
-<a><img src="images/Python-logo.png" width="50" alt="50"></img></a>
+<a><img src="images/Python-logo.png" width="50" alt="50"></a>
+<a><img src="images/C++.png" width="50" alt="50"></a>
 <a><img src="images/Ruby_logo.png" width="50" alt="50"></a>
 <a><img src="images/HTML-logo.png" width="60" alt="50"></a>
 <a><img src="images/CSS3-logo.png" width="43" alt="50"></a>
