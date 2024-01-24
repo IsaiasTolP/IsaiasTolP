@@ -10,14 +10,12 @@
 ## Sobre mí
 Siempre me ha interesado por la tecnología.
 
-### Los idiomas, otro de mis gustos
-Otro de los puntos importantes a resaltar sobre mi, es mi interés por el estudio de idiomas, actualmente este es el estado de mi estudio:
+### Los idiomas:
+Creo en la importancia de los idiomas para una profesión que está permanentemente conectada a la globalización, actualmente este es el estado de mi estudio:
 
 * [X] Español (Nativo)
 * [X] Inglés/English (B2)
-* [ ] Japonés/日本語　(Estudiando activamente)
-
-## Objetivos que me dispongo a cumplir
+* [X] Japonés/日本語　(Estudiando activamente)
 
 ### Hi there 👋 currently working on this
 
