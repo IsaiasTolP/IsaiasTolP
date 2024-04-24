@@ -6,7 +6,7 @@
 <a><img src="images/C++.png" width="50" alt="50"></a>
 <a><img src="images/HTML-logo.png" width="60" alt="50"></a>
 <a><img src="images/CSS3-logo.png" width="43" alt="50"></a>
-<a><img src="images/js-logo.png" width="46" alt="50"></a>
+<a><img src="images/js-logo.png" width="46" alt="46"></a>
 
 ## Sobre mí
 Siempre me ha interesado por la tecnología.
