@@ -10,8 +10,8 @@ I'm Isaías, a web developer student who likes programming and looking for creat
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
 
-## Web tools (Programing languages too 😉)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+## Web tools (Programming languages too! 😉)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php&theme=light)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
