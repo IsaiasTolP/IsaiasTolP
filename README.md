@@ -23,7 +23,7 @@ I'm Isaías, a web developer student who likes programming and looking for creat
 ![Isaias GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiasTolP&show_icons=true&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true)
 ![Isaías Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasTolP&layout=compact&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true)
 
-### Languages
+### Human Languages
 I believe on the power of languages, even if AI is making things more easier than ever before, this is my current knowledge:
 
 * [X] Español (Nativo)
