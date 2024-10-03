@@ -1,6 +1,6 @@
 <div align="justify">
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&color=FFDF00&font=Orbitron&lines=Remember;You+Have+No+Enemies;That+Includes+Programming+Languages" href="https://git.io/typing-svg"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&color=FFDF00&font=Orbitron&width=550&size=26&lines=Remember;You+Have+No+Enemies;That+Includes+Programming+Languages" href="https://git.io/typing-svg"></div>
 
 # Hi Everyone 👋
 I'm Isaías, a web developer student who likes programming and looking for creative solutions.
