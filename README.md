@@ -1,6 +1,6 @@
 <div align="justify">
 
-<img src="(https://readme-typing-svg.demolab.com/?lines=Remember;You+Have+No+Enemies;That+Includes+Programming+Languages)](https://git.io/typing-svg)">
+<img src="https://readme-typing-svg.demolab.com/?lines=Remember;You+Have+No+Enemies;That+Includes+Programming+Languages" href="https://git.io/typing-svg">
 
 # Hi Everyone 👋
 I'm Isaías, a web developer student who likes programming and looking for creative solutions.
