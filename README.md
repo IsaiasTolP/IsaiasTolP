@@ -5,8 +5,8 @@
 
 # <div align="center">Hi Everyone 👋 Some extra info (●'◡'●)</div>
 - Isaías is my name 🧙🏻‍♂️.
-- "You have no enemies": From Vinland Saga manga is a phrase that implies, that no one is born having enemies and you must live without making them.
-- In bloodborne (a videogame), “Fear the Old Blood” is a password, a promise, and ultimately a warning against pride and ambition, which can turns humans into monsters.
+- "You have no enemies": From Vinland Saga manga, is a phrase that implies, that no one is born having enemies and you must live without making them.
+- In Bloodborne (a videogame), “Fear the Old Blood” is a password, a promise, and ultimately a warning against pride and ambition, which can turns humans into monsters.
 
 ## About me:
 🤓 Learning: Web Development</br>
