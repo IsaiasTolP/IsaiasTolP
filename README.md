@@ -22,8 +22,8 @@ I'm Isaías, a web developer student who likes programming and looking for creat
 [![My Skills](https://skillicons.dev/icons?i=git,md,bash,vscode)](https://skillicons.dev)
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=IsaiasTolP&show_icons=true&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasTolP&layout=compact&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=IsaiasTolP&show_icons=true&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasTolP&layout=compact&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="360">
 
 ### Human Languages
 I believe on the power of languages, even if AI is making things more easier than ever before, this is my current knowledge:
