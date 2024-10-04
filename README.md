@@ -1,6 +1,6 @@
 <div align="justify">
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=600&size=24&lines=Remember;You+Have+No+Enemies;Fear+The+Old+Blood" href="https://git.io/typing-svg"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=8B0000&font=Orbitron&width=600&size=24&lines=Remember;You+Have+No+Enemies;Fear+The+Old+Blood" href="https://git.io/typing-svg"></div>
 <div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=700&size=24&lines=Todo+lo+que+escuchamos+es+una+opinión,+no+un+hecho;Todo+lo+que+vemos+es+una+perspectiva,+no+la+verdad;Marco+Aurelio" href="https://git.io/typing-svg"></div>
 
 # Hi Everyone 👋
