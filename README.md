@@ -23,7 +23,6 @@ I'm Isaías, a web developer student who likes programming and looking for creat
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=IsaiasTolP&show_icons=true&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="400">
-
 ![Isaías Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasTolP&layout=compact&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true)
 
 ### Human Languages
