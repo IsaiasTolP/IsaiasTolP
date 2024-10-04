@@ -1,7 +1,7 @@
 <div align="justify">
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=600&size=26&lines=Remember;You+Have+No+Enemies" href="https://git.io/typing-svg"></div>
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=700&size=26&lines=Todo+lo+que+escuchamos+es+una+opinión,+no+un+hecho;Todo+lo+que+vemos+es+una+perspectiva,+no+la+verdad;Marco+Aurelio" href="https://git.io/typing-svg"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=600&size=24&lines=Remember;You+Have+No+Enemies" href="https://git.io/typing-svg"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=700&size=24&lines=Todo+lo+que+escuchamos+es+una+opinión,+no+un+hecho;Todo+lo+que+vemos+es+una+perspectiva,+no+la+verdad;Marco+Aurelio" href="https://git.io/typing-svg"></div>
 
 # Hi Everyone 👋
 I'm Isaías, a web developer student who likes programming and looking for creative solutions.
