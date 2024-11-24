@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
 
 ## Web tools (There are programming languages too! 😉)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,django,vue&theme=light)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
