@@ -1,13 +1,10 @@
 <div align="justify">
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=8B0000&font=Orbitron&width=600&size=24&lines=Remember;You+Have+No+Enemies;Fear+The+Old+Blood" href="https://git.io/typing-svg"></div>
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=FFDF00&font=Orbitron&width=700&size=24&lines=Todo+lo+que+escuchamos+es+una+opinión,+no+un+hecho;Todo+lo+que+vemos+es+una+perspectiva,+no+la+verdad;Marco+Aurelio" href="https://git.io/typing-svg"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?pause=1000&center=true&vCenter=true&color=8B0000&font=Orbitron&width=600&size=24&lines=Remember;You+Have+No+Enemies" href="https://git.io/typing-svg"></div>
 
 # <div align="center">Hi Everyone 👋 Some extra info (●'◡'●)</div>
 - Isaías is my name 🧙🏻‍♂️.
-- "You have no enemies": From Vinland Saga manga, is a phrase that implies, that no one is born having enemies and you must live without making them.
-- In Bloodborne (a videogame), “Fear the Old Blood” is a password, a promise, and ultimately a warning against pride and ambition, which can turn humans into monsters.
-- Marco Aurelio (Marcus Aurelius): Was a Roman Emperor and a philosopher.
+- "You have no enemies": From Vinland Saga manga, is a phrase that implies, that no one is born having enemies and you must live without making them. He for sure didn't know Java.
 
 ## About me:
 🤓 Learning: Web Development</br>
