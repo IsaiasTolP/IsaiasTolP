@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=light)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,md,bash,vscode,visualstudio,vite,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,md,bash,vscode,visualstudio,vite,bootstrap,docker)](https://skillicons.dev)
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=IsaiasTolP&show_icons=true&theme=highcontrast&text_color=ffffff&title_color=ff0000&icon_color=ffff00&hide_border=true" width="450">
